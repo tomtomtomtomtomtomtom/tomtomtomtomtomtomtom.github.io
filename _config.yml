@@ -22,12 +22,18 @@ baseurl: ""
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tomo_42695
 github_username:  tomtomtomtomtomtomtom
-# linkedin_username:  tomo42695@gmail.com
 
+social_link: linkedin
+social_username: iwai-tomomu-920331175
+social_email: tomo42695@gmail.com
+facebook_username:  iwai.tomomu
+
+kaggle_username: tomotomo5
 
 # Build settings
 markdown: kramdown
 theme: jekyll-swiss
+theme_color: blue
 plugins:
   - jekyll-feed
 
