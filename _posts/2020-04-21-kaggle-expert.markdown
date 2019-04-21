@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "I'm finally a kaggle expert!"
+title:  "Finally a kaggle expert!"
 date:   2019-04-21 15:35:37 +0900
 categories: kaggle
 ---
