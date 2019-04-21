@@ -1,18 +1,32 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+High Guys!
+I'm currently a master student studying at Keio University.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Current Status:
+* `Kaggle Expert`
+* Kaggle Santander Customer Transaction Prediction `Top 6%`
+* Kaggle Home Credit Default Risk `Top 9%`
+* JPHACKS `Finalist and Sponser Award`
+* Eiken `First Grade`
+* TOEIC Reading and Writing Test `985`
+* TOEFL iBT `108`
+* Keio Academic Writing Contest `2nd Place`
+* Certified Securities Broker Representative
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+In this blog, I will be talking mainly about data science and machine learning, and a little bit about life. 
 
 
-[jekyll-organization]: https://github.com/jekyll
+
+Please contact me through:
+[`twitter`](https://twitter.com/tomo_42695)
+
+You can find my codes on github:
+[`github`](https://tomtomtomtomtomtomtom)
+
+Me on kaggle:
+[`kaggle`](https://www.kaggle.com/tomotomo5)
