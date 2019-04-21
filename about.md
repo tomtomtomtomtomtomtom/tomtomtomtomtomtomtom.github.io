@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-High Guys!
+Hi Guys!
 I'm currently a master student studying at Keio University.
 
 Current Status:
