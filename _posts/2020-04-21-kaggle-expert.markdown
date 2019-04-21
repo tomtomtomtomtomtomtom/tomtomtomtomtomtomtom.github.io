@@ -4,6 +4,7 @@ title:  "I'm finally a kaggle expert!"
 date:   2019-04-21 15:35:37 +0900
 categories: kaggle
 ---
+
 Hello!
 
 I've been working on `kaggle` for a couple of days, especially on the `Santander Customer Transaction Prediction` competition.
@@ -15,8 +16,10 @@ But this [`this kernel`](https://www.kaggle.com/yag320/list-of-fake-samples-and-
 
 
 Anyways, what a competition!! 
-I ranked `445th` out of 8802 teams in this competition(`Top 6%`), and recieved my second `bronze medal`. (3 places to silver medal...orz). My second bronze medal means my position as a `kaggle expert`. 
+I ranked `445th` out of 8802 teams in this competition(`Top 6%`), and recieved my second `bronze medal`. (5 places to silver medal...orz). My second bronze medal means my position as a `kaggle expert`. 
 
 
 I'll continue working on data science and kaggle. 
 Hope I can become a kaggle Master soon.
+
+![kaggle-santander](/assets/images/kaggle-santander.png)
