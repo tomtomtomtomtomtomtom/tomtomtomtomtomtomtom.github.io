@@ -10,7 +10,7 @@ I've been working on `kaggle` for a couple of days, especially on the `Santander
 The competition was pretty challenging, because the features were anonymized and had almost no correlation to each other.
 
 
-In addition, some of the data in the test set were not used for scoring and were fake data that were made from Santander.
+In addition, some of the data in the test set were not used for scoring and were fake data that were made by Santander.
 But this [`this kernel`](https://www.kaggle.com/yag320/list-of-fake-samples-and-public-private-lb-split) was absolutely amazing. I think we need to give a hands clap to the kernel author. He just found out how to split the fake data with the real data in the test dataset. Not to say that he found which data was used for public, and private scoring.
 
 
