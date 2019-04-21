@@ -22,4 +22,5 @@ I ranked `445th` out of 8802 teams in this competition(`Top 6%`), and recieved m
 I'll continue working on data science and kaggle. 
 Hope I can become a kaggle Master soon.
 
-![kaggle-santander](/assets/images/kaggle-santander.png)
+
+<img src="/assets/images/kaggle-santander.png" width="75%">
